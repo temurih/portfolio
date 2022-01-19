@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio (Outdated)
 
 This portfolio was originally created in Summer 2011. It was created with the basic `HTML`, `CSS` and `JavaScript` skills I knew at that time.
 
